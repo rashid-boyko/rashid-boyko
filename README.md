@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning everything cloud related! 🤣
 - 👯 I’m looking to collaborate with other cloud engineers
-- 🥅 2022 Goals: 
-  - Contribute more to Open Source projects
-  - Get certified: CKA, AWS SAP, Azure DevOps
+- 🥅 2022 Goals: Contribute more to Open Source projects, Get certified: CKA, AWS SAP, Azure DevOps
 - ⚡ Fun fact: I love to ride my motorcycle
 
 ### Connect with me:
