@@ -1,5 +1,5 @@
 ### Hi there, I'm Rashid 👋 
-
+<img aligh="left" src"https://en.gravatar.com/userimage/136353026/eb301953f27fa33bb99793120f3d0896.jpg" />
 
 ## I'm a Husband, Father, Cloud Engineer, and Biker!!
 
