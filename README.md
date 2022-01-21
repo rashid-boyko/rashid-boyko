@@ -1,6 +1,6 @@
 ### Hi there, I'm Rashid 👋 
 
-## I'm a Husband, Father, Cloud Engineer, and Biker!!
+## I'm a Husband, Father, Cloud Engineer and Biker!!
 
 - 🌱 I’m into everything Cloud and DevOps related! 🤣
 - 👯 I’m looking to collaborate with other Cloud Engineers
