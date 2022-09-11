@@ -1,11 +1,9 @@
 ### Hi there, I'm Rashid 👋 
 
-## I'm a Husband, Father, Cloud Engineer and Biker!!
+## I'm Cloud Engineer and Biker!!
 
 - 🌱 I’m into everything Cloud and DevOps related! 🤣
 - 👯 I’m looking to collaborate with other Cloud Engineers
-- 🥅 2022 Goals: Get certified: CKA, AWS SAP, Azure DevOps Pro
-- ⚡ Fun fact: I love to ride my motorcycle
 
 ### Connect with me:
 
