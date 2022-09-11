@@ -1,6 +1,6 @@
 ### Hi there, I'm Rashid 👋 
 
-## I'm Cloud Engineer and Biker!!
+## I'm a Platform Engineer
 
 - 🌱 I’m into everything Cloud and DevOps related! 🤣
 - 👯 I’m looking to collaborate with other Cloud Engineers
